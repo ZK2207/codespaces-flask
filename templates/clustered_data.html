@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clustered Data</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+        {% for index, row in clustered_data.iterrows() %}
+        {% set cluster_color %}
+            {% if row['Cluster'] % 2 == 0 %}
+                LightBlue
+            {% else %}
+                White
+            {% endif %}
+        {% endset %}
+        .cluster-{{ row['Cluster'] }} {
+            background-color: {{ cluster_color }};
+        }
+        {% endfor %}
+    </style>
+</head>
+<body>
+    <h2>Clustered Data</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Centroid</th>
+                <th>Member</th>
+                <th>TC Name</th>
+                <th>Cluster</th>
+                <th>Group Label</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for index, row in clustered_data.iterrows() %}
+            <tr class="cluster-{{ row['Cluster'] }}">
+                <td>{{ row['Centroid'] }}</td>
+                <td>{{ row['Member'] }}</td>
+                <td>{{ row['TC Name'] }}</td>
+                <td>{{ row['Cluster'] }}</td>
+                <td>{{ row['Group Label'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

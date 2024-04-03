@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Grouped Data</title>
+      <style>
+          /* Global Styles */
+          body {
+              font-family: 'Arial', sans-serif;
+              margin: 0;
+              padding: 0;
+              background-color: #f8f9fa; /* Background color */
+              color: #333; /* Text color */
+          }
+          .container {
+              max-width: 1200px;
+              margin: 20px auto;
+              padding: 0 20px;
+              background-color: #fff; /* Container background color */
+              border-radius: 10px;
+              box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Container box shadow */
+          }
+          h1 {
+              text-align: center;
+              margin-bottom: 30px;
+              font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Header font */
+              color: #007bff; /* Header color */
+          }
+          h2 {
+              text-align: center;
+              margin-bottom: 20px;
+              font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Subheader font */
+              color: #333; /* Subheader color */
+          }
+
+          /* Table Styles */
+          table {
+              width: 100%;
+              border-collapse: collapse;
+              margin-bottom: 30px;
+              background-color: #fff; /* Table background color */
+              border-radius: 10px;
+              overflow: hidden; /* Hide table border radius overflow */
+          }
+          th, td {
+              border: 1px solid #ddd;
+              padding: 8px;
+              text-align: left;
+          }
+          th {
+              background-color: #f2f2f2;
+              cursor: pointer;
+          }
+          th:hover {
+              background-color: #ddd;
+          }
+          .toggle-details {
+              cursor: pointer;
+          }
+
+          /* Floating Block Styles */
+          .floating-block {
+              display: none;
+              position: fixed;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              background-color: #fff;
+              border: 1px solid #ddd;
+              padding: 20px;
+              box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+              max-height: 70vh;
+              overflow-y: auto;
+              white-space: nowrap;
+              border-radius: 10px;
+              font-family: 'Arial', sans-serif; /* Floating block font */
+          }
+          .floating-block table {
+              width: 100%;
+              border-collapse: collapse;
+          }
+          .floating-block th, .floating-block td {
+              border: 1px solid #ddd;
+              padding: 8px;
+              text-align: left;
+          }
+      </style>
+  </head>
+<body>
+    <div class="container">
+        <h1>Dashboard</h1>
+        <form action="/kmeans_checkbox" method="POST">
+            <label for="kmeans-checkbox">KMEANS:</label>
+            <input type="checkbox" id="kmeans-checkbox" name="kmeans_checkbox">
+            <input type="submit" value="Submit">
+        </form>
+        {% for main_category, test_plans in grouped_data.items() %}
+            <h2>{{ main_category }}</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th onclick="sortTable(0)">Test Plan Name</th>
+                        <th onclick="sortTable(1)">Number of TC</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for test_plan_name, test_cases in test_plans.items() %}
+                        <tr class="toggle-details" data-test-cases='{{ test_cases | tojson | safe }}'>
+                            <td>{{ test_plan_name }}</td>
+                            <td>{{ test_cases|length }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% endfor %}
+        <div class="floating-block" id="floatingBlock">
+            <table>
+                <thead>
+                    <tr>
+                        <th onclick="sortTable(0)">Test Case Name</th>
+                        <th onclick="sortTable(1)">Status</th>
+                        <th onclick="sortTable(2)">Test Level</th>
+                        <th onclick="sortTable(3)">Execution Mode</th>
+                        <th onclick="sortTable(4)">Comments</th>
+                        <th onclick="sortTable(5)">Class</th>
+                    </tr>
+                </thead>
+                <tbody id="testCaseTableBody">
+                    <!-- Test cases details will be populated dynamically here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // Function to sort table by column index
+        function sortTable(colIndex) {
+            var table = document.getElementById('testCaseTableBody');
+            var rows = table.rows;
+            var switching = true;
+            var shouldSwitch = false;
+            var dir = 'asc';
+            var switchCount = 0;
+
+            // Continue until no switching is needed
+            while (switching) {
+                switching = false;
+                for (var i = 0; i < rows.length - 1; i++) {
+                    shouldSwitch = false;
+                    var x = rows[i].getElementsByTagName('td')[colIndex].textContent.toLowerCase();
+                    var y = rows[i + 1].getElementsByTagName('td')[colIndex].textContent.toLowerCase();
+
+                    if (dir == 'asc') {
+                        if (x > y) {
+                            shouldSwitch = true;
+                            break;
+                        }
+                    } else if (dir == 'desc') {
+                        if (x < y) {
+                            shouldSwitch = true;
+                            break;
+                        }
+                    }
+                }
+                if (shouldSwitch) {
+                    rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                    switching = true;
+                    switchCount++;
+                } else {
+                    if (switchCount == 0 && dir == 'asc') {
+                        dir = 'desc';
+                        switching = true;
+                    }
+                }
+            }
+        }
+
+        // Function to toggle floating block display and populate details
+        document.addEventListener('DOMContentLoaded', function() {
+            const toggleDetailsRows = document.querySelectorAll('.toggle-details');
+            const floatingBlock = document.getElementById('floatingBlock');
+
+            toggleDetailsRows.forEach(row => {
+                row.addEventListener('click', function() {
+                    const testCasesDetails = JSON.parse(row.getAttribute('data-test-cases'));
+                    const tableBody = document.getElementById('testCaseTableBody');
+
+                    // Clear existing rows
+                    tableBody.innerHTML = '';
+
+                    // Populate table with test cases details
+                    testCasesDetails.forEach(testCase => {
+                        const newRow = document.createElement('tr');
+                        newRow.innerHTML = `
+                            <td>${testCase['TC Name']}</td>
+                            <td>${testCase['Status']}</td>
+                            <td>${testCase['Test Level']}</td>
+                            <td>${testCase['Execution Mode']}</td>
+                            <td>${testCase['Comments']}</td>
+                            <td>${testCase['Class']}</td>
+                        `;
+                        tableBody.appendChild(newRow);
+                    });
+
+                    // Toggle floating block display
+                    floatingBlock.style.display = (floatingBlock.style.display === 'block') ? 'none' : 'block';
+                });
+            });
+        });
+    </script>
+</body>
+</html>
