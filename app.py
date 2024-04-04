@@ -1,12 +1,14 @@
 from flask import Flask, render_template, request, redirect
+import re
 import csv
+import nltk
+import pandas as pd
+import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cluster import KMeans
 from Levenshtein import distance
 from kneed import KneeLocator
-import pandas as pd
-import re
-import nltk
+
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
@@ -20,11 +22,10 @@ nltk.download('wordnet')
 app = Flask(__name__)
 
 # Data processing
-def preprocess_text(text, words_to_remove):
+def preprocess_text(text, words_to_remove=None):
   for word in words_to_remove:
       text = text.replace(word, '')  # Remove unexpected words
   text = re.sub(r'[^\w\s]', '', text)  # Remove special characters, keep only words and punctuation
-  text = text.lower()  # Convert text to lowercase
   stop_words = set(stopwords.words('english'))  # Remove stopwords
   word_tokens = word_tokenize(text)
   filtered_text = [word for word in word_tokens if word not in stop_words]
@@ -48,11 +49,11 @@ def classify_comments(data, threshold):
           centroid = cluster[0]
           dist = distance(pre_comment, centroid)
           if dist <= threshold:
-              clusters[cluster].append((row['TC Name'], comment, row['Group Label']))
+              clusters[cluster].append((row['TC Name'], comment, row['Ground truth']))
               assigned = True
               break
       if not assigned:
-          clusters[(pre_comment,)].append((row['TC Name'], comment, row['Group Label']))
+          clusters[(pre_comment,)].append((row['TC Name'], comment, row['Ground truth']))
   return clusters
 
 def calculate_elbow(X, num_clusters):
@@ -72,7 +73,7 @@ def cluster_comments(data, X, num_clusters):
 
   clusters = defaultdict(list)
   for i, comment in enumerate(data['Comments']):
-      clusters[labels[i]].append((data.iloc[i]['TC Name'], data.iloc[i]['Group Label'], comment))
+      clusters[labels[i]].append((data.iloc[i]['TC Name'], data.iloc[i]['Ground truth'], comment))
   # Get representative comment for each cluster as centroid
   centroid_comments = []
   for cluster_idx, cluster in clusters.items():
@@ -101,8 +102,12 @@ def perform_kmeans(filename):
 
   distortions = calculate_elbow(X, max_clusters)
 
-  kl_elbow = KneeLocator(range(2, max_clusters), distortions, curve='convex', direction='decreasing')
-  optimal_num_clusters_elbow = kl_elbow.elbow
+  l_optimal_num_clusters = []
+  for _ in range(5):  # Repeat 5 times
+    kl_elbow = KneeLocator(range(2, max_clusters), distortions, curve='convex', direction='decreasing')
+    l_optimal_num_clusters.append(kl_elbow.elbow)
+  
+  optimal_num_clusters_elbow = int(round(np.median(l_optimal_num_clusters)))
 
   # Cluster comments using KMeans
   classified_comments, centroid_comments = cluster_comments(data, X, optimal_num_clusters_elbow)
@@ -117,7 +122,7 @@ def perform_kmeans(filename):
           'Centroid': centroid,
           'Member': comment,
           'TC Name': name,
-          'Group Label': class_name
+          'Ground truth': class_name
           })
 
   return clustered_data
@@ -166,6 +171,7 @@ def clustered_data():
   # Load clustered data from CSV file
   clustered_data = pd.read_csv('ClusteredData.csv')
   clustered_data = clustered_data.sort_values(by='Cluster')
+  final_clustered_num = len(clustered_data)
 
   # Render template with clustered data
   return render_template('clustered_data.html', clustered_data=clustered_data)

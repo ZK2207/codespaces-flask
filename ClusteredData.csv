@@ -1,760 +1,760 @@
-Cluster,Centroid,Member,TC Name,Group Label
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_353,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+Cluster,Centroid,Member,TC Name,Ground truth
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_353,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_95,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_257,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_450,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not as expected,TC_DATA_SET_315,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_332,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not as expected,TC_DATA_SET_489,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not as expected,TC_DATA_SET_314,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not as expected,TC_DATA_SET_432,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - Actual MEP status is No, Expected is Yes",TC_DATA_SET_130,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_450,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not as expected,TC_DATA_SET_315,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_405,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_286,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_332,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not as expected,TC_DATA_SET_489,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not as expected,TC_DATA_SET_314,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not as expected,TC_DATA_SET_432,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,        Unanalyzed - MEP status is No,TC_DATA_SET_130,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_446,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_213,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_141,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_141,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_138,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_97,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not as expected,TC_DATA_SET_197,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_258,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_354,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not as expected,TC_DATA_SET_196,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_97,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not as expected,TC_DATA_SET_197,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_258,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_407,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_291,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_354,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not as expected,TC_DATA_SET_196,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_331,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_329,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_352,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_328,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_404,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_287,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not linked,TC_DATA_SET_317,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: offload flag enabled: Issue-123,TC_DATA_SET_212,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_449,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_215,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - Actual MEP status is No, Expected is Yes",TC_DATA_SET_366,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_22,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_472,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_23,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not as expected,TC_DATA_SET_78,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_215,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,        Unanalyzed - MEP status is No,TC_DATA_SET_366,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_169,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not linked,TC_DATA_SET_198,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_22,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_447,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not linked,TC_DATA_SET_490,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not linked,TC_DATA_SET_199,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_168,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_406,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_211,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_472,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_53,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_210,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_23,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not as expected,TC_DATA_SET_78,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not linked,TC_DATA_SET_435,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_93,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_92,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_139,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_376,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_170,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_376,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_256,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_96,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not linked,TC_DATA_SET_434,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_96,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_21,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - Actual MEP status is No, Expected is Yes",TC_DATA_SET_367,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_118,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - Actual MEP status is No, Expected is Yes",TC_DATA_SET_12,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,        Unanalyzed - MEP status is No,TC_DATA_SET_367,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_118,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,        Unanalyzed - MEP status is No,TC_DATA_SET_12,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_234,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_20,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - Actual MEP status is No, Expected is Yes",TC_DATA_SET_248,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_214,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - Actual MEP status is No, Expected is Yes",TC_DATA_SET_13,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not as expected,TC_DATA_SET_433,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_377,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_140,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,        Unanalyzed - MEP status is No,TC_DATA_SET_248,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_214,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,        Unanalyzed - MEP status is No,TC_DATA_SET_13,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_171,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not as expected,TC_DATA_SET_433,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_377,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_140,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_470,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not as expected,TC_DATA_SET_79,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_235,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - Actual MEP status is No, Expected is Yes",TC_DATA_SET_249,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_236,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_451,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: offload flag enabled: Issue-123,TC_DATA_SET_94,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not as expected,TC_DATA_SET_79,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: offload flag enabled: Issue-123,TC_DATA_SET_330,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_289,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_235,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,        Unanalyzed - MEP status is No,TC_DATA_SET_249,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_236,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_451,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_116,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - Actual MEP status is No, Expected is Yes",TC_DATA_SET_131,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_333,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not as expected,TC_DATA_SET_488,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,        Unanalyzed - MEP status is No,TC_DATA_SET_131,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_333,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not linked,TC_DATA_SET_80,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not linked,TC_DATA_SET_491,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_52,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_290,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_408,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_55,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not as expected,TC_DATA_SET_488,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_374,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_259,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes","        Unanalyzed - MEP status is No
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not linked,TC_DATA_SET_81,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_50,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_259,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_51,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,"        Unanalyzed - MEP status is No
 ",TC_DATA_SET_375,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_117,Group04
-9,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Unanalyzed - MEP status is not Yes,TC_DATA_SET_471,Group04
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_423,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_425,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_307,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_194,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_398,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_312,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_487,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_486,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_478,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_69,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_77,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_499,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_280,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_479,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_187,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_304,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_189,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_480,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_195,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_313,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_399,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_162,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_71,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_306,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_44,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_163,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_430,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_500,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_70,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_424,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_481,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_305,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_68,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_188,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_76,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_501,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_45,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_281,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_431,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_186,Group09
-5,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_422,Group09
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_154,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_343,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_456,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_156,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_385,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_457,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_346,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_390,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_153,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_228,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_383,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_266,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_157,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_110,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_148,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_230,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_152,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_225,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_29,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_34,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_105,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_345,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_32,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_344,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_37,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_348,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_39,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_466,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_151,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_106,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_339,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_268,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_388,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_391,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_382,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_36,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_31,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_112,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_270,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_271,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_149,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_111,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_102,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_462,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_28,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_349,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_264,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_147,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_467,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_275,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_103,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_146,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_231,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_463,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_342,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_113,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_465,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_392,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_389,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_30,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_221,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_222,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_458,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_461,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_220,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_226,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_38,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_273,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_155,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_459,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_109,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_272,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_150,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_227,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_464,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_104,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_33,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_107,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_340,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_387,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_229,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_338,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_35,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_224,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_386,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_269,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_108,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_347,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_274,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_223,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_341,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_393,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_384,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_267,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_265,Group07
-2,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_460,Group07
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Number of records not as expected,TC_DATA_SET_437,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Number of records not as expected,TC_DATA_SET_82,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Expected a minimum of 3 records,TC_DATA_SET_427,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3","Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",TC_DATA_SET_321,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Number of records not as expected,TC_DATA_SET_319,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Expected a minimum of 3 records,TC_DATA_SET_426,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Number of records not as expected,TC_DATA_SET_492,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3","Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",TC_DATA_SET_85,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Expected a minimum of 3 records,TC_DATA_SET_308,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3","Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",TC_DATA_SET_203,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Number of records not as expected,TC_DATA_SET_83,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Expected a minimum of 3 records,TC_DATA_SET_73,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3","Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",TC_DATA_SET_438,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Expected a minimum of 3 records,TC_DATA_SET_483,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Expected a minimum of 3 records,TC_DATA_SET_482,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3","Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",TC_DATA_SET_439,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Expected a minimum of 3 records,TC_DATA_SET_191,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Number of records not as expected,TC_DATA_SET_318,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3","Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",TC_DATA_SET_84,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Number of records not as expected,TC_DATA_SET_200,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3","Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",TC_DATA_SET_320,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Number of records not as expected,TC_DATA_SET_436,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Number of records not as expected,TC_DATA_SET_201,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Expected a minimum of 3 records,TC_DATA_SET_309,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Number of records not as expected,TC_DATA_SET_493,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Expected a minimum of 3 records,TC_DATA_SET_72,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3","Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",TC_DATA_SET_202,Group10
-10,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Unanalyzed - Expected a minimum of 3 records,TC_DATA_SET_190,Group10
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_251,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_405,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_441,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_286,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_311,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_446,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_185,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_15,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_407,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_498,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_485,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_75,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_291,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_133,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_329,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_328,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_404,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_287,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_420,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_368,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_443,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_310,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_477,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: offload flag enabled: Issue-123,TC_DATA_SET_212,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_324,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_169,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_447,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_184,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_74,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_428,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_168,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_406,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_211,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_207,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_53,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_210,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_93,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,TC_DATA_SET_92,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_87,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_170,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_89,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_88,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_66,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_132,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_429,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_67,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_497,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_171,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: offload flag enabled: Issue-123,TC_DATA_SET_94,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_440,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: offload flag enabled: Issue-123,TC_DATA_SET_330,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_289,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_421,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_476,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_302,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_193,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_192,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_484,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_369,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_303,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_325,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_250,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_86,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_52,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_290,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_408,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_204,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_55,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_323,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_50,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Issue-123: Offload flag enabled,TC_DATA_SET_51,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_206,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_54,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_288,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_409,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_442,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_205,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_322,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_14,Group05
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_173,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: offload flag enabled: Issue-123,TC_DATA_SET_448,Group01
-7,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_172,Group01
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_117,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_54,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not linked,TC_DATA_SET_316,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag enabled: Issue-123,TC_DATA_SET_288,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_409,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_173,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,WARNING: offload flag enabled: Issue-123,TC_DATA_SET_448,Group01
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Unanalyzed - MEP status is not Yes,TC_DATA_SET_471,Group04
+5,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Offload flag is enabled,TC_DATA_SET_172,Group01
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_423,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_425,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_307,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_194,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_398,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_312,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_487,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_486,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_478,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_69,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_77,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_499,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_280,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_479,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_187,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_304,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_189,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_480,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_195,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_313,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_399,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_162,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_71,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_306,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_44,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_163,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_430,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_500,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_70,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_424,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_481,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_305,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_68,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_188,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_76,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting passed,TC_DATA_SET_501,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_45,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Configuration of invalid interface reporting not failed,TC_DATA_SET_281,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Invalid interface configuration reporting passed,TC_DATA_SET_431,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_186,Group03
+6,Unanalyzed - Configuration of invalid interface reporting not failed,Unanalyzed - Configuration of invalid interface reporting not failed,TC_DATA_SET_422,Group03
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_154,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_343,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_456,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_156,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_385,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_457,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_346,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_390,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_153,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_228,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_383,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_266,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_157,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_110,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_148,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_230,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_152,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_225,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_29,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_34,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_105,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_345,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_32,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_344,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_37,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_348,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_39,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_466,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_151,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_106,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_339,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_268,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_388,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_391,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_382,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_36,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_31,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_112,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_270,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_271,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_149,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_111,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_102,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_462,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_28,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_349,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_264,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_147,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_467,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_275,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_103,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_146,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_231,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_463,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_342,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_113,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_465,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_392,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_389,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_30,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_221,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_222,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_458,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_461,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_220,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_226,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_38,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_273,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_155,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_459,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_109,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_272,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_150,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_227,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_464,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_104,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_33,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_107,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_340,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_387,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_229,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_338,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_35,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_224,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_386,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_269,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still zero,TC_DATA_SET_108,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is zero,TC_DATA_SET_347,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_274,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_223,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_341,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,TC_DATA_SET_393,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_384,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_267,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value = 0,TC_DATA_SET_265,Group07
+1,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Unanalyzed - Two-Way Frame Delay min value is still 0,TC_DATA_SET_460,Group07
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_437,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_372,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_56,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_181,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_60,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_415,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_294,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_176,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_58,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_82,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_416,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_427,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_321,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_319,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_293,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_63,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_297,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_426,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_492,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_494,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_137,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_59,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_373,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_255,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_174,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_85,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_308,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_296,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_298,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_136,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_203,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_413,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_62,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_83,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_417,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_73,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_438,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_483,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_482,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_439,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_414,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_191,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_295,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_180,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_18,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_19,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_318,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_299,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_177,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_84,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_200,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_254,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_320,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_436,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_201,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_411,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_412,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_309,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_410,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_178,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_175,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_57,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_493,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_61,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_72,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_473,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_202,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_292,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_179,Group06
+3,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_190,Group06
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_251,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_441,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_311,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_185,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_15,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_498,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_485,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_75,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_133,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_420,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_368,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_443,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_310,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_477,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_324,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_184,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_74,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_428,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_207,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_87,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_89,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_88,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_66,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_132,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_429,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_67,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_497,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_440,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_421,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_476,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_302,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_193,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_192,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Failed to set ip on vlan,TC_DATA_SET_484,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_369,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Cannot set ip on vlan 2,TC_DATA_SET_303,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_325,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_250,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_86,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_204,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_323,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_206,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Unable to set ip on vlan 5,TC_DATA_SET_442,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_205,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Set ip on vlan is not successful,TC_DATA_SET_322,Group05
+8,Unanalyzed - Set ip on vlan is not successful,Unanalyzed - Could not set ip on vlan,TC_DATA_SET_14,Group05
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_474,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_502,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_143,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","Unexpected TWAMP-Sender Operational status was found
-",TC_DATA_SET_327,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_378,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_164,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_27,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_279,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_263,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_300,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_284,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_397,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_26,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_218,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_24,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_217,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_161,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_419,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_401,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_475,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","Unexpected TWAMP-Sender Operational status was found
-",TC_DATA_SET_444,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_167,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_166,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_43,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_262,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_334,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_99,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","Unexpected TWAMP-Sender Operational status was found
-",TC_DATA_SET_90,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","Unexpected TWAMP-Sender Operational status was found
-",TC_DATA_SET_208,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_418,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_381,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_145,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_452,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_48,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_47,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_219,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_453,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_455,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_165,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_337,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_216,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_42,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_285,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_403,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_496,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","Unexpected TWAMP-Sender Operational status was found
-",TC_DATA_SET_209,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_503,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_25,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_278,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_46,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_396,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_160,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_283,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_400,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_101,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_142,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_379,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_335,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_144,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_64,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_183,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","Unexpected TWAMP-Sender Operational status was found
-",TC_DATA_SET_91,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","Unexpected TWAMP-Sender Operational status was found
-",TC_DATA_SET_445,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_495,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_301,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_49,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_182,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_98,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","Unexpected TWAMP-Sender Operational status was found
-",TC_DATA_SET_326,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_402,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_454,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_282,Group08
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TWAMP-Sender Operational have status not as expected,TC_DATA_SET_65,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_380,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_336,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
-",TC_DATA_SET_261,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
+7,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ","        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",TC_DATA_SET_100,Group08
-4,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
-","        Unanalyzed - TWAMP Operational status is not as expected 
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_238,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_502,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_143,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_134,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_327,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_378,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_370,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_16,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_252,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_24,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_217,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_444,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_371,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_334,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_99,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_90,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_208,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_452,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_453,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_120,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_17,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_356,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_216,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_02,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_135,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_209,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_503,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_25,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_142,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_379,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_335,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_91,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_445,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_98,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_326,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","Unexpected TWAMP-Sender Operational status was found
+",TC_DATA_SET_253,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
+",TC_DATA_SET_261,Group08
+2,"        Unexpected TWAMP-Sender Operational status was found 
+","        Unexpected TWAMP-Sender Operational status was found 
 ",TC_DATA_SET_260,Group08
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-","        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",TC_DATA_SET_238,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-","        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",TC_DATA_SET_134,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Expected tel but information now is ssh,TC_DATA_SET_164,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Actual: ssh - Expected tel. Information not as expected,TC_DATA_SET_279,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-","        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",TC_DATA_SET_370,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-","        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",TC_DATA_SET_16,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-","        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",TC_DATA_SET_252,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Information should be tel instead of ssh,TC_DATA_SET_284,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Actual: ssh - Expected tel. Information not as expected,TC_DATA_SET_397,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Actual: ssh - Expected tel. Information not as expected,TC_DATA_SET_161,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Expected tel but information now is ssh,TC_DATA_SET_401,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Information should be tel instead of ssh,TC_DATA_SET_167,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Information should be tel instead of ssh,TC_DATA_SET_166,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Actual: ssh - Expected tel. Information not as expected,TC_DATA_SET_43,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-","        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",TC_DATA_SET_371,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Information should be tel instead of ssh,TC_DATA_SET_48,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Expected tel but information now is ssh,TC_DATA_SET_47,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-","        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",TC_DATA_SET_120,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-","        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",TC_DATA_SET_17,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-","        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",TC_DATA_SET_356,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Expected tel but information now is ssh,TC_DATA_SET_165,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Actual: ssh - Expected tel. Information not as expected.,TC_DATA_SET_42,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Information should be tel instead of ssh,TC_DATA_SET_285,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Information should be tel instead of ssh,TC_DATA_SET_403,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-","        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",TC_DATA_SET_02,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Actual: ssh - Expected tel. Information not as expected.,TC_DATA_SET_278,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-","        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",TC_DATA_SET_135,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Expected tel but information now is ssh,TC_DATA_SET_46,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Actual: ssh - Expected tel. Information not as expected.,TC_DATA_SET_396,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Actual: ssh - Expected tel. Information not as expected.,TC_DATA_SET_160,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Expected tel but information now is ssh,TC_DATA_SET_283,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Expected tel but information now is ssh,TC_DATA_SET_400,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Information should be tel instead of ssh,TC_DATA_SET_49,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Information should be tel instead of ssh,TC_DATA_SET_402,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Expected tel but information now is ssh,TC_DATA_SET_282,Group03
-3,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-","        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",TC_DATA_SET_253,Group03
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        Need investigationFailed because of a first level exception 
 ",TC_DATA_SET_242,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_126,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_127,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_469,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_247,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_09,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        Need investigationFailed because of a first level exception 
 ",TC_DATA_SET_360,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        Need investigationFailed because of a first level exception 
 ",TC_DATA_SET_243,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_10,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_08,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_245,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_276,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_114,Group02
-6,"        The failure was due to an initial exception - Need investigation 
-","        Failedbecause of afirst level exception - Needinvestigation 
+4,"        The failure was due to an initial exception - Need investigation 
+","        Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_122,Group02
-6,"        The failure was due to an initial exception - Need investigation 
-","        Failedbecause of afirst level exception - Needinvestigation 
+4,"        The failure was due to an initial exception - Need investigation 
+","        Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_123,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_128,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_277,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_115,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_41,Group02
-6,"        The failure was due to an initial exception - Need investigation 
-","        Failedbecause of afirst level exception - Needinvestigation 
+4,"        The failure was due to an initial exception - Need investigation 
+","        Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_358,Group02
-6,"        The failure was due to an initial exception - Need investigation 
-","        Failedbecause of afirst level exception - Needinvestigation 
+4,"        The failure was due to an initial exception - Need investigation 
+","        Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_241,Group02
-6,"        The failure was due to an initial exception - Need investigation 
-","        Failedbecause of afirst level exception - Needinvestigation 
+4,"        The failure was due to an initial exception - Need investigation 
+","        Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_240,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_244,Group02
-6,"        The failure was due to an initial exception - Need investigation 
-","        Failedbecause of afirst level exception - Needinvestigation 
+4,"        The failure was due to an initial exception - Need investigation 
+","        Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_359,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_394,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        Need investigationFailed because of a first level exception 
 ",TC_DATA_SET_07,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_159,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        Need investigationFailed because of a first level exception 
 ",TC_DATA_SET_361,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","	Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_01,Group02
-6,"        The failure was due to an initial exception - Need investigation 
-","        Failedbecause of afirst level exception - Needinvestigation 
+4,"        The failure was due to an initial exception - Need investigation 
+","        Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_05,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        Need investigationFailed because of a first level exception 
 ",TC_DATA_SET_124,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","	Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_355,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_129,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        Need investigationFailed because of a first level exception 
 ",TC_DATA_SET_125,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_364,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_246,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_365,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_232,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_350,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_11,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_158,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        Need investigationFailed because of a first level exception 
 ",TC_DATA_SET_06,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_395,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_363,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_233,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_468,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","	Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_119,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_03,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        The failure was due to an initial exception - Need investigation 
 ",TC_DATA_SET_362,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","	Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_237,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_40,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_121,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_239,Group02
-6,"        The failure was due to an initial exception - Need investigation 
-","        Failedbecause of afirst level exception - Needinvestigation 
+4,"        The failure was due to an initial exception - Need investigation 
+","        Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_04,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ","        Failed because of a first level exception - Need investigation 
 ",TC_DATA_SET_357,Group02
-6,"        The failure was due to an initial exception - Need investigation 
+4,"        The failure was due to an initial exception - Need investigation 
 ",Need investigation - Failed because of a first level exception,TC_DATA_SET_351,Group02
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_372,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The actual samples in CSV is 289,TC_DATA_SET_56,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_181,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_60,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_415,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_294,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_176,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_58,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_416,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The actual samples in CSV is 289,TC_DATA_SET_293,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_63,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_297,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_494,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_137,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_59,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_373,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_255,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The actual samples in CSV is 289,TC_DATA_SET_174,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_296,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_298,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_136,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_413,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_62,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_417,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_414,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_295,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_180,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_18,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_19,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_299,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_177,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ","        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",TC_DATA_SET_254,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The actual samples in CSV is 289,TC_DATA_SET_411,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The expected samples in CSV is 300. Actual 299,TC_DATA_SET_412,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The actual samples in CSV is 289,TC_DATA_SET_410,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_178,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The actual samples in CSV is 289,TC_DATA_SET_175,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The actual samples in CSV is 289,TC_DATA_SET_57,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_61,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is not correct,TC_DATA_SET_473,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The actual samples in CSV is 289,TC_DATA_SET_292,Group06
-8,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",The samples in CSV file is incorrect. Actual 298,TC_DATA_SET_179,Group06
-1,Unanalyzed - MEP status is not linked,Unanalyzed - MEP status is not linked,TC_DATA_SET_317,Group04
-1,Unanalyzed - MEP status is not linked,Unanalyzed - MEP status is not linked,TC_DATA_SET_198,Group04
-1,Unanalyzed - MEP status is not linked,Unanalyzed - MEP status is not linked,TC_DATA_SET_490,Group04
-1,Unanalyzed - MEP status is not linked,Unanalyzed - MEP status is not linked,TC_DATA_SET_199,Group04
-1,Unanalyzed - MEP status is not linked,Unanalyzed - MEP status is not linked,TC_DATA_SET_435,Group04
-1,Unanalyzed - MEP status is not linked,Unanalyzed - MEP status is not linked,TC_DATA_SET_434,Group04
-1,Unanalyzed - MEP status is not linked,Unanalyzed - MEP status is not linked,TC_DATA_SET_80,Group04
-1,Unanalyzed - MEP status is not linked,Unanalyzed - MEP status is not linked,TC_DATA_SET_491,Group04
-1,Unanalyzed - MEP status is not linked,Unanalyzed - MEP status is not linked,TC_DATA_SET_81,Group04
-1,Unanalyzed - MEP status is not linked,Unanalyzed - MEP status is not linked,TC_DATA_SET_316,Group04

@@ -91,7 +91,7 @@
     <div class="container">
         <h1>Dashboard</h1>
         <form action="/kmeans_checkbox" method="POST">
-            <label for="kmeans-checkbox">KMEANS:</label>
+            <label for="kmeans-checkbox">K-Means Clustering:</label>
             <input type="checkbox" id="kmeans-checkbox" name="kmeans_checkbox">
             <input type="submit" value="Submit">
         </form>
@@ -119,11 +119,10 @@
                 <thead>
                     <tr>
                         <th onclick="sortTable(0)">Test Case Name</th>
-                        <th onclick="sortTable(1)">Status</th>
-                        <th onclick="sortTable(2)">Test Level</th>
-                        <th onclick="sortTable(3)">Execution Mode</th>
-                        <th onclick="sortTable(4)">Comments</th>
-                        <th onclick="sortTable(5)">Class</th>
+                        <th onclick="sortTable(1)">Test Level</th>
+                        <th onclick="sortTable(2)">Mode</th>
+                        <th onclick="sortTable(3)">Comments</th>
+                        <th onclick="sortTable(4)">Ground truth</th>
                     </tr>
                 </thead>
                 <tbody id="testCaseTableBody">
@@ -194,11 +193,10 @@
                         const newRow = document.createElement('tr');
                         newRow.innerHTML = `
                             <td>${testCase['TC Name']}</td>
-                            <td>${testCase['Status']}</td>
                             <td>${testCase['Test Level']}</td>
-                            <td>${testCase['Execution Mode']}</td>
+                            <td>${testCase['Mode']}</td>
                             <td>${testCase['Comments']}</td>
-                            <td>${testCase['Class']}</td>
+                            <td>${testCase['Ground truth']}</td>
                         `;
                         tableBody.appendChild(newRow);
                     });

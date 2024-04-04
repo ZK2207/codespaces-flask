@@ -35,6 +35,8 @@
 </head>
 <body>
     <h2>Clustered Data</h2>
+    <h3>Total of clusters: {{ clustered_data['Cluster'].nunique() }}</h3>
+    <a href="https://scaling-space-lamp-5gqvr5x4vxv72v5q5-5000.app.github.dev/">Go to home page</a>
     <table>
         <thead>
             <tr>
@@ -42,7 +44,7 @@
                 <th>Member</th>
                 <th>TC Name</th>
                 <th>Cluster</th>
-                <th>Group Label</th>
+                <th>Ground truth</th>
             </tr>
         </thead>
         <tbody>
@@ -52,7 +54,7 @@
                 <td>{{ row['Member'] }}</td>
                 <td>{{ row['TC Name'] }}</td>
                 <td>{{ row['Cluster'] }}</td>
-                <td>{{ row['Group Label'] }}</td>
+                <td>{{ row['Ground truth'] }}</td>
             </tr>
             {% endfor %}
         </tbody>

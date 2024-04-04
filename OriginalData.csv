@@ -1,8 +1,8 @@
-Main Category,Test Plan Name,TC Name,Test Level,Mode,Comments,Group Label
+Main Category,Test Plan Name,TC Name,Test Level,Mode,Comments,Ground truth
 General_Management,SNMP,TC_DATA_SET_353,Regression2,auto,Unanalyzed - MEP status is not Yes,Group04
-Interfaces,Port,TC_DATA_SET_423,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group09
+Interfaces,Port,TC_DATA_SET_423,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group03
 General_Management,Alarm,TC_DATA_SET_154,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is zero,Group07
-Interfaces,NFV,TC_DATA_SET_437,Regression2,auto,Unanalyzed - Number of records not as expected,Group10
+Interfaces,NFV,TC_DATA_SET_437,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,SNMP,TC_DATA_SET_95,Regression1,auto,"        Unanalyzed - MEP status is No
 ",Group04
 General_Management,SNMP,TC_DATA_SET_343,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
@@ -11,40 +11,40 @@ General_Management,SNMP,TC_DATA_SET_456,Regression2,auto,Unanalyzed - Two-Way Fr
 General_Management,Alarm,TC_DATA_SET_156,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
 General_Management,SNMP,TC_DATA_SET_385,Regression3,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 Interfaces,LLDP,TC_DATA_SET_474,Regression2,auto,TWAMP-Sender Operational have status not as expected,Group08
-Acceptance,Acceptance,TC_DATA_SET_238,Regression1,auto,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Group03
-General_Management,SNMP,TC_DATA_SET_502,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+Acceptance,Acceptance,TC_DATA_SET_238,Regression1,auto,"Unexpected TWAMP-Sender Operational status was found
+",Group08
+General_Management,SNMP,TC_DATA_SET_502,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 General_Management,SNMP,TC_DATA_SET_457,Regression3,auto,Unanalyzed - Two-Way Frame Delay min value = 0,Group07
 General_Management,Alarm,TC_DATA_SET_346,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is zero,Group07
-Interfaces,Port,TC_DATA_SET_425,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group09
-Interfaces,Port,TC_DATA_SET_307,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group09
+Interfaces,Port,TC_DATA_SET_425,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group03
+Interfaces,Port,TC_DATA_SET_307,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group03
 General_Management,SNMP,TC_DATA_SET_257,Regression1,auto,"        Unanalyzed - MEP status is No
 ",Group04
 General_Management,Alarm,TC_DATA_SET_390,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is zero,Group07
-Interfaces,Port,TC_DATA_SET_194,Regression2,auto,Unanalyzed - Invalid interface configuration reporting passed,Group09
-General_Management,Alarm,TC_DATA_SET_398,Regression2,auto,Configuration of invalid interface reporting not failed,Group09
+Interfaces,Port,TC_DATA_SET_194,Regression2,auto,Unanalyzed - Invalid interface configuration reporting passed,Group03
+General_Management,Alarm,TC_DATA_SET_398,Regression2,auto,Configuration of invalid interface reporting not failed,Group03
 General_Management,SNMP,TC_DATA_SET_450,Regression2,auto,Unanalyzed - MEP status is not Yes,Group04
 Acceptance,Acceptance,TC_DATA_SET_242,Regression2,auto,"        Need investigationFailed because of a first level exception 
 ",Group02
 Acceptance,Acceptance,TC_DATA_SET_126,Regression2,auto,"        The failure was due to an initial exception - Need investigation 
 ",Group02
-General_Management,SNMP,TC_DATA_SET_143,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,SNMP,TC_DATA_SET_143,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 Interfaces,Port,TC_DATA_SET_315,Regression3,auto,Unanalyzed - MEP status is not as expected,Group04
 General_Management,Alarm,TC_DATA_SET_405,Regression2,auto,Issue-123: Offload flag enabled,Group01
 Acceptance,Acceptance,TC_DATA_SET_127,Regression2,auto,"        The failure was due to an initial exception - Need investigation 
 ",Group02
-Acceptance,Acceptance,TC_DATA_SET_134,Regression2,auto,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Group03
+Acceptance,Acceptance,TC_DATA_SET_134,Regression2,auto,"Unexpected TWAMP-Sender Operational status was found
+",Group08
 Acceptance,Acceptance,TC_DATA_SET_372,Regression1,auto,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",Group06
 Interfaces,NFV,TC_DATA_SET_441,Regression1,auto,Unanalyzed - Set ip on vlan is not successful,Group05
 Interfaces,NFV,TC_DATA_SET_327,Regression2,auto,"Unexpected TWAMP-Sender Operational status was found
 ",Group08
-General_Management,Alarm,TC_DATA_SET_56,Regression2,auto,The actual samples in CSV is 289,Group06
+General_Management,Alarm,TC_DATA_SET_56,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,Alarm,TC_DATA_SET_286,Regression1,auto,Issue-123: Offload flag enabled,Group01
-General_Management,Alarm,TC_DATA_SET_164,Regression1,auto,Expected tel but information now is ssh,Group03
-General_Management,SNMP,TC_DATA_SET_378,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,Alarm,TC_DATA_SET_164,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
+General_Management,SNMP,TC_DATA_SET_378,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 General_Management,Alarm,TC_DATA_SET_153,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
 General_Management,Alarm,TC_DATA_SET_228,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is zero,Group07
@@ -57,40 +57,40 @@ General_Management,SNMP,TC_DATA_SET_383,Regression3,auto,Unanalyzed - Two-Way Fr
 General_Management,SNMP,TC_DATA_SET_27,Regression2,auto,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",Group08
 Interfaces,LLDP,TC_DATA_SET_176,Regression1,auto,The expected samples in CSV is 300. Actual 299,Group06
-Interfaces,Port,TC_DATA_SET_312,Regression2,auto,Unanalyzed - Invalid interface configuration reporting passed,Group09
+Interfaces,Port,TC_DATA_SET_312,Regression2,auto,Unanalyzed - Invalid interface configuration reporting passed,Group03
 Interfaces,Port,TC_DATA_SET_489,Regression3,auto,Unanalyzed - MEP status is not as expected,Group04
-General_Management,Alarm,TC_DATA_SET_279,Regression2,auto,Actual: ssh - Expected tel. Information not as expected,Group03
-Acceptance,Acceptance,TC_DATA_SET_370,Regression2,auto,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Group03
-Interfaces,Port,TC_DATA_SET_487,Regression3,auto,Unanalyzed - Invalid interface configuration reporting passed,Group09
+General_Management,Alarm,TC_DATA_SET_279,Regression2,auto,TWAMP-Sender Operational have status not as expected,Group08
+Acceptance,Acceptance,TC_DATA_SET_370,Regression2,auto,"Unexpected TWAMP-Sender Operational status was found
+",Group08
+Interfaces,Port,TC_DATA_SET_487,Regression3,auto,Unanalyzed - Invalid interface configuration reporting passed,Group03
 Interfaces,Port,TC_DATA_SET_314,Regression1,auto,Unanalyzed - MEP status is not as expected,Group04
-Acceptance,Acceptance,TC_DATA_SET_16,Regression2,auto,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Group03
-Acceptance,Acceptance,TC_DATA_SET_252,Regression2,auto,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Group03
+Acceptance,Acceptance,TC_DATA_SET_16,Regression2,auto,"Unexpected TWAMP-Sender Operational status was found
+",Group08
+Acceptance,Acceptance,TC_DATA_SET_252,Regression2,auto,"Unexpected TWAMP-Sender Operational status was found
+",Group08
 Interfaces,Port,TC_DATA_SET_311,Regression2,auto,Unanalyzed - Failed to set ip on vlan,Group05
 General_Management,SNMP,TC_DATA_SET_266,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 General_Management,Alarm,TC_DATA_SET_157,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
 General_Management,SNMP,TC_DATA_SET_263,Regression2,auto,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",Group08
 Interfaces,LLDP,TC_DATA_SET_58,Regression1,auto,The expected samples in CSV is 300. Actual 299,Group06
-Interfaces,Port,TC_DATA_SET_82,Regression1,auto,Unanalyzed - Number of records not as expected,Group10
+Interfaces,Port,TC_DATA_SET_82,Regression1,auto,The samples in CSV file is incorrect. Actual 298,Group06
 Interfaces,LLDP,TC_DATA_SET_300,Regression2,auto,TWAMP-Sender Operational have status not as expected,Group08
 Interfaces,Port,TC_DATA_SET_432,Regression1,auto,Unanalyzed - MEP status is not as expected,Group04
 General_Management,Alarm,TC_DATA_SET_110,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is zero,Group07
 General_Management,SNMP,TC_DATA_SET_148,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
-Interfaces,Port,TC_DATA_SET_486,Regression2,auto,Unanalyzed - Invalid interface configuration reporting passed,Group09
-Acceptance,Acceptance,TC_DATA_SET_130,Regression2,auto,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Group04
+Interfaces,Port,TC_DATA_SET_486,Regression2,auto,Unanalyzed - Invalid interface configuration reporting passed,Group03
+Acceptance,Acceptance,TC_DATA_SET_130,Regression2,auto,"        Unanalyzed - MEP status is No",Group04
 Interfaces,LLDP,TC_DATA_SET_416,Regression1,auto,The samples in CSV file is not correct,Group06
 Interfaces,NFV,TC_DATA_SET_446,Regression2,auto,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Group01
 General_Management,SNMP,TC_DATA_SET_213,Regression1,auto,"        Unanalyzed - MEP status is No
 ",Group04
-Interfaces,Port,TC_DATA_SET_427,Regression2,auto,Unanalyzed - Expected a minimum of 3 records,Group10
+Interfaces,Port,TC_DATA_SET_427,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 Interfaces,Port,TC_DATA_SET_185,Regression2,auto,Unanalyzed - Cannot set ip on vlan 2,Group05
-Interfaces,Port,TC_DATA_SET_478,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group09
+Interfaces,Port,TC_DATA_SET_478,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group03
 General_Management,Alarm,TC_DATA_SET_230,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
-General_Management,Alarm,TC_DATA_SET_284,Regression2,auto,Information should be tel instead of ssh,Group03
-General_Management,Alarm,TC_DATA_SET_397,Regression2,auto,Actual: ssh - Expected tel. Information not as expected,Group03
+General_Management,Alarm,TC_DATA_SET_284,Regression2,auto,TWAMP-Sender Operational have status not as expected,Group08
+General_Management,Alarm,TC_DATA_SET_397,Regression2,auto,TWAMP-Sender Operational have status not as expected,Group08
 General_Management,SNMP,TC_DATA_SET_141,Regression1,auto,Unanalyzed - MEP status is not Yes,Group04
 General_Management,SNMP,TC_DATA_SET_26,Regression1,auto,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",Group08
@@ -102,27 +102,27 @@ General_Management,SNMP,TC_DATA_SET_97,Regression1,auto,Unanalyzed - MEP status 
 General_Management,SNMP,TC_DATA_SET_218,Regression1,auto,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",Group08
 Interfaces,Port,TC_DATA_SET_197,Regression3,auto,Unanalyzed - MEP status is not as expected,Group04
-Interfaces,Port,TC_DATA_SET_69,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group09
+Interfaces,Port,TC_DATA_SET_69,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group03
 Acceptance,Acceptance,TC_DATA_SET_247,Regression2,auto,"        The failure was due to an initial exception - Need investigation 
 ",Group02
 General_Management,SNMP,TC_DATA_SET_258,Regression2,auto,Unanalyzed - MEP status is not Yes,Group04
 Acceptance,Acceptance,TC_DATA_SET_15,Regression3,auto,Unanalyzed - Could not set ip on vlan,Group05
 General_Management,SNMP,TC_DATA_SET_225,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
-Interfaces,Port,TC_DATA_SET_77,Regression3,auto,Unanalyzed - Invalid interface configuration reporting passed,Group09
+Interfaces,Port,TC_DATA_SET_77,Regression3,auto,Unanalyzed - Invalid interface configuration reporting passed,Group03
 General_Management,SNMP,TC_DATA_SET_29,Regression3,auto,Unanalyzed - Two-Way Frame Delay min value = 0,Group07
-Interfaces,NFV,TC_DATA_SET_321,Regression1,auto,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Group10
+Interfaces,NFV,TC_DATA_SET_321,Regression1,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,Alarm,TC_DATA_SET_407,Regression1,auto,Offload flag enabled: Issue-123,Group01
 Interfaces,Port,TC_DATA_SET_498,Regression2,auto,Unanalyzed - Cannot set ip on vlan 2,Group05
-General_Management,Alarm,TC_DATA_SET_161,Regression2,auto,Actual: ssh - Expected tel. Information not as expected,Group03
+General_Management,Alarm,TC_DATA_SET_161,Regression2,auto,TWAMP-Sender Operational have status not as expected,Group08
 Interfaces,Port,TC_DATA_SET_485,Regression2,auto,Unanalyzed - Failed to set ip on vlan,Group05
 General_Management,SNMP,TC_DATA_SET_34,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
 Interfaces,Port,TC_DATA_SET_75,Regression2,auto,Unanalyzed - Failed to set ip on vlan,Group05
-Interfaces,NFV,TC_DATA_SET_319,Regression2,auto,Unanalyzed - Number of records not as expected,Group10
+Interfaces,NFV,TC_DATA_SET_319,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,Alarm,TC_DATA_SET_291,Regression1,auto,Offload flag is enabled,Group01
-General_Management,SNMP,TC_DATA_SET_24,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,SNMP,TC_DATA_SET_24,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 Acceptance,Acceptance,TC_DATA_SET_133,Regression3,auto,Unanalyzed - Could not set ip on vlan,Group05
-General_Management,SNMP,TC_DATA_SET_217,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,SNMP,TC_DATA_SET_217,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 Acceptance,Acceptance,TC_DATA_SET_09,Regression2,auto,"        The failure was due to an initial exception - Need investigation 
 ",Group02
@@ -131,18 +131,18 @@ General_Management,SNMP,TC_DATA_SET_354,Regression1,auto,Unanalyzed - MEP status
 Interfaces,LLDP,TC_DATA_SET_419,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
 Acceptance,Acceptance,TC_DATA_SET_360,Regression2,auto,"        Need investigationFailed because of a first level exception 
 ",Group02
-General_Management,Alarm,TC_DATA_SET_401,Regression3,auto,Expected tel but information now is ssh,Group03
+General_Management,Alarm,TC_DATA_SET_401,Regression3,auto,TWAMP-Sender Operational have status not as expected,Group08
 Interfaces,LLDP,TC_DATA_SET_475,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
-Interfaces,Port,TC_DATA_SET_499,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group09
-Interfaces,LLDP,TC_DATA_SET_293,Regression2,auto,The actual samples in CSV is 289,Group06
+Interfaces,Port,TC_DATA_SET_499,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group03
+Interfaces,LLDP,TC_DATA_SET_293,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,Alarm,TC_DATA_SET_345,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
 General_Management,SNMP,TC_DATA_SET_32,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 Interfaces,LLDP,TC_DATA_SET_63,Regression3,auto,The samples in CSV file is not correct,Group06
-General_Management,Alarm,TC_DATA_SET_167,Regression1,auto,Information should be tel instead of ssh,Group03
+General_Management,Alarm,TC_DATA_SET_167,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
 Acceptance,Acceptance,TC_DATA_SET_243,Regression1,auto,"        Need investigationFailed because of a first level exception 
 ",Group02
 Interfaces,Port,TC_DATA_SET_196,Regression1,auto,Unanalyzed - MEP status is not as expected,Group04
-General_Management,Alarm,TC_DATA_SET_166,Regression2,auto,Information should be tel instead of ssh,Group03
+General_Management,Alarm,TC_DATA_SET_166,Regression2,auto,TWAMP-Sender Operational have status not as expected,Group08
 General_Management,SNMP,TC_DATA_SET_344,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
 General_Management,SNMP,TC_DATA_SET_331,Regression1,auto,"        Unanalyzed - MEP status is No
 ",Group04
@@ -155,19 +155,19 @@ General_Management,SNMP,TC_DATA_SET_352,Regression1,auto,"        Unanalyzed - M
 Acceptance,Acceptance,TC_DATA_SET_08,Regression2,auto,"        The failure was due to an initial exception - Need investigation 
 ",Group02
 Interfaces,NFV,TC_DATA_SET_328,Regression2,auto,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Group01
-General_Management,Alarm,TC_DATA_SET_43,Regression2,auto,Actual: ssh - Expected tel. Information not as expected,Group03
-General_Management,Alarm,TC_DATA_SET_280,Regression2,auto,Configuration of invalid interface reporting not failed,Group09
+General_Management,Alarm,TC_DATA_SET_43,Regression2,auto,TWAMP-Sender Operational have status not as expected,Group08
+General_Management,Alarm,TC_DATA_SET_280,Regression2,auto,Configuration of invalid interface reporting not failed,Group03
 Interfaces,NFV,TC_DATA_SET_444,Regression1,auto,"Unexpected TWAMP-Sender Operational status was found
 ",Group08
 Interfaces,LLDP,TC_DATA_SET_297,Regression3,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,Alarm,TC_DATA_SET_348,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
-Interfaces,Port,TC_DATA_SET_479,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group09
-Interfaces,Port,TC_DATA_SET_426,Regression2,auto,Unanalyzed - Expected a minimum of 3 records,Group10
-Interfaces,Port,TC_DATA_SET_492,Regression1,auto,Unanalyzed - Number of records not as expected,Group10
+Interfaces,Port,TC_DATA_SET_479,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group03
+Interfaces,Port,TC_DATA_SET_426,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
+Interfaces,Port,TC_DATA_SET_492,Regression1,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,Alarm,TC_DATA_SET_404,Regression1,auto,Issue-123: Offload flag enabled,Group01
 General_Management,Alarm,TC_DATA_SET_287,Regression2,auto,Issue-123: Offload flag enabled,Group01
-Acceptance,Acceptance,TC_DATA_SET_371,Regression1,auto,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Group03
+Acceptance,Acceptance,TC_DATA_SET_371,Regression1,auto,"Unexpected TWAMP-Sender Operational status was found
+",Group08
 Interfaces,Port,TC_DATA_SET_420,Regression1,auto,Unanalyzed - Cannot set ip on vlan 2,Group05
 General_Management,Alarm,TC_DATA_SET_39,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
 Interfaces,Port,TC_DATA_SET_317,Regression1,auto,Unanalyzed - MEP status is not linked,Group04
@@ -179,12 +179,12 @@ Acceptance,Acceptance,TC_DATA_SET_137,Regression2,auto,"        Unanalyzed - Err
 Interfaces,NFV,TC_DATA_SET_443,Regression2,auto,Unanalyzed - Unable to set ip on vlan 5,Group05
 Acceptance,Acceptance,TC_DATA_SET_245,Regression2,auto,"        The failure was due to an initial exception - Need investigation 
 ",Group02
-General_Management,SNMP,TC_DATA_SET_334,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,SNMP,TC_DATA_SET_334,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 Interfaces,Port,TC_DATA_SET_310,Regression1,auto,Unanalyzed - Failed to set ip on vlan,Group05
 Interfaces,LLDP,TC_DATA_SET_59,Regression2,auto,The expected samples in CSV is 300. Actual 299,Group06
 Interfaces,Port,TC_DATA_SET_477,Regression2,auto,Unanalyzed - Cannot set ip on vlan 2,Group05
-General_Management,SNMP,TC_DATA_SET_99,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,SNMP,TC_DATA_SET_99,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 General_Management,Alarm,TC_DATA_SET_466,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
 Acceptance,Acceptance,TC_DATA_SET_373,Regression2,auto,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",Group06
@@ -202,25 +202,25 @@ Interfaces,LLDP,TC_DATA_SET_418,Regression2,auto,TWAMP-Sender Operational have s
 General_Management,SNMP,TC_DATA_SET_106,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 Acceptance,Acceptance,TC_DATA_SET_255,Regression2,auto,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",Group06
 Interfaces,NFV,TC_DATA_SET_324,Regression2,auto,Unanalyzed - Unable to set ip on vlan 5,Group05
-Acceptance,Acceptance,TC_DATA_SET_366,Regression2,auto,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Group04
+Acceptance,Acceptance,TC_DATA_SET_366,Regression2,auto,"        Unanalyzed - MEP status is No",Group04
 General_Management,SNMP,TC_DATA_SET_381,Regression2,auto,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",Group08
 General_Management,SNMP,TC_DATA_SET_145,Regression2,auto,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",Group08
-General_Management,Alarm,TC_DATA_SET_174,Regression2,auto,The actual samples in CSV is 289,Group06
-Interfaces,NFV,TC_DATA_SET_85,Regression1,auto,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Group10
+General_Management,Alarm,TC_DATA_SET_174,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
+Interfaces,NFV,TC_DATA_SET_85,Regression1,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,SNMP,TC_DATA_SET_339,Regression3,auto,Unanalyzed - Two-Way Frame Delay min value = 0,Group07
-General_Management,Alarm,TC_DATA_SET_48,Regression2,auto,Information should be tel instead of ssh,Group03
+General_Management,Alarm,TC_DATA_SET_48,Regression2,auto,TWAMP-Sender Operational have status not as expected,Group08
 General_Management,Alarm,TC_DATA_SET_114,Regression2,auto,Need investigation - Failed because of a first level exception,Group02
-Interfaces,Port,TC_DATA_SET_308,Regression2,auto,Unanalyzed - Expected a minimum of 3 records,Group10
-Acceptance,Acceptance,TC_DATA_SET_122,Regression2,auto,"        Failedbecause of afirst level exception - Needinvestigation 
+Interfaces,Port,TC_DATA_SET_308,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
+Acceptance,Acceptance,TC_DATA_SET_122,Regression2,auto,"        Failed because of a first level exception - Need investigation 
 ",Group02
-Interfaces,Port,TC_DATA_SET_187,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group09
-General_Management,Alarm,TC_DATA_SET_47,Regression3,auto,Expected tel but information now is ssh,Group03
+Interfaces,Port,TC_DATA_SET_187,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group03
+General_Management,Alarm,TC_DATA_SET_47,Regression3,auto,TWAMP-Sender Operational have status not as expected,Group08
 General_Management,SNMP,TC_DATA_SET_268,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 General_Management,Alarm,TC_DATA_SET_169,Regression2,auto,Issue-123: Offload flag enabled,Group01
 Interfaces,Port,TC_DATA_SET_198,Regression2,auto,Unanalyzed - MEP status is not linked,Group04
-Acceptance,Acceptance,TC_DATA_SET_123,Regression1,auto,"        Failedbecause of afirst level exception - Needinvestigation 
+Acceptance,Acceptance,TC_DATA_SET_123,Regression1,auto,"        Failed because of a first level exception - Need investigation 
 ",Group02
 General_Management,SNMP,TC_DATA_SET_388,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
 General_Management,SNMP,TC_DATA_SET_22,Regression2,auto,Unanalyzed - MEP status is not Yes,Group04
@@ -232,7 +232,7 @@ Acceptance,Acceptance,TC_DATA_SET_128,Regression1,auto,"        The failure was 
 Interfaces,Port,TC_DATA_SET_490,Regression2,auto,Unanalyzed - MEP status is not linked,Group04
 General_Management,SNMP,TC_DATA_SET_382,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value = 0,Group07
 Interfaces,LLDP,TC_DATA_SET_296,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
-General_Management,SNMP,TC_DATA_SET_452,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,SNMP,TC_DATA_SET_452,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 General_Management,SNMP,TC_DATA_SET_219,Regression2,auto,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",Group08
@@ -247,8 +247,8 @@ General_Management,Alarm,TC_DATA_SET_36,Regression2,auto,Unanalyzed - Two-Way Fr
 General_Management,SNMP,TC_DATA_SET_31,Regression3,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 General_Management,Alarm,TC_DATA_SET_112,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
 General_Management,SNMP,TC_DATA_SET_270,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
-Interfaces,NFV,TC_DATA_SET_203,Regression1,auto,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Group10
-Interfaces,Port,TC_DATA_SET_304,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group09
+Interfaces,NFV,TC_DATA_SET_203,Regression1,auto,The samples in CSV file is incorrect. Actual 298,Group06
+Interfaces,Port,TC_DATA_SET_304,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group03
 General_Management,Alarm,TC_DATA_SET_41,Regression2,auto,Need investigation - Failed because of a first level exception,Group02
 General_Management,Alarm,TC_DATA_SET_168,Regression1,auto,Issue-123: Offload flag enabled,Group01
 General_Management,Alarm,TC_DATA_SET_406,Regression2,auto,Offload flag enabled: Issue-123,Group01
@@ -257,150 +257,150 @@ Interfaces,LLDP,TC_DATA_SET_413,Regression2,auto,The expected samples in CSV is 
 Interfaces,LLDP,TC_DATA_SET_62,Regression1,auto,The samples in CSV file is not correct,Group06
 General_Management,Alarm,TC_DATA_SET_271,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
 General_Management,SNMP,TC_DATA_SET_472,Regression1,auto,Unanalyzed - MEP status is not Yes,Group04
-Acceptance,Acceptance,TC_DATA_SET_358,Regression2,auto,"        Failedbecause of afirst level exception - Needinvestigation 
+Acceptance,Acceptance,TC_DATA_SET_358,Regression2,auto,"        Failed because of a first level exception - Need investigation 
 ",Group02
 Interfaces,NFV,TC_DATA_SET_207,Regression2,auto,Unanalyzed - Unable to set ip on vlan 5,Group05
 General_Management,Alarm,TC_DATA_SET_53,Regression1,auto,Offload flag enabled: Issue-123,Group01
 Interfaces,NFV,TC_DATA_SET_210,Regression2,auto,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Group01
-General_Management,SNMP,TC_DATA_SET_453,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,SNMP,TC_DATA_SET_453,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 General_Management,SNMP,TC_DATA_SET_149,Regression3,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 General_Management,SNMP,TC_DATA_SET_455,Regression2,auto,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",Group08
-Interfaces,Port,TC_DATA_SET_189,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group09
+Interfaces,Port,TC_DATA_SET_189,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group03
 General_Management,Alarm,TC_DATA_SET_111,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is zero,Group07
 General_Management,SNMP,TC_DATA_SET_23,Regression1,auto,Unanalyzed - MEP status is not Yes,Group04
 General_Management,SNMP,TC_DATA_SET_102,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value = 0,Group07
 Interfaces,Port,TC_DATA_SET_78,Regression1,auto,Unanalyzed - MEP status is not as expected,Group04
 General_Management,SNMP,TC_DATA_SET_462,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
 Interfaces,Port,TC_DATA_SET_435,Regression1,auto,Unanalyzed - MEP status is not linked,Group04
-Acceptance,Acceptance,TC_DATA_SET_241,Regression1,auto,"        Failedbecause of afirst level exception - Needinvestigation 
+Acceptance,Acceptance,TC_DATA_SET_241,Regression1,auto,"        Failed because of a first level exception - Need investigation 
 ",Group02
-Acceptance,Acceptance,TC_DATA_SET_120,Regression1,auto,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Group03
-Acceptance,Acceptance,TC_DATA_SET_17,Regression1,auto,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Group03
+Acceptance,Acceptance,TC_DATA_SET_120,Regression1,auto,"Unexpected TWAMP-Sender Operational status was found
+",Group08
+Acceptance,Acceptance,TC_DATA_SET_17,Regression1,auto,"Unexpected TWAMP-Sender Operational status was found
+",Group08
 Interfaces,NFV,TC_DATA_SET_93,Regression3,auto,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Group01
-Interfaces,NFV,TC_DATA_SET_83,Regression2,auto,Unanalyzed - Number of records not as expected,Group10
+Interfaces,NFV,TC_DATA_SET_83,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 Interfaces,NFV,TC_DATA_SET_92,Regression2,auto,WARNING: Issue-123: Offload flag is enabled. Expected: Disable,Group01
 General_Management,SNMP,TC_DATA_SET_28,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value = 0,Group07
 General_Management,Alarm,TC_DATA_SET_349,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
 Interfaces,LLDP,TC_DATA_SET_417,Regression3,auto,The samples in CSV file is not correct,Group06
-Interfaces,Port,TC_DATA_SET_73,Regression2,auto,Unanalyzed - Expected a minimum of 3 records,Group10
+Interfaces,Port,TC_DATA_SET_73,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,SNMP,TC_DATA_SET_264,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value = 0,Group07
 General_Management,SNMP,TC_DATA_SET_139,Regression1,auto,"        Unanalyzed - MEP status is No
 ",Group04
 Interfaces,NFV,TC_DATA_SET_87,Regression1,auto,Unanalyzed - Set ip on vlan is not successful,Group05
 General_Management,Alarm,TC_DATA_SET_170,Regression2,auto,Offload flag enabled: Issue-123,Group01
 General_Management,SNMP,TC_DATA_SET_376,Regression2,auto,Unanalyzed - MEP status is not Yes,Group04
-Acceptance,Acceptance,TC_DATA_SET_356,Regression1,auto,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Group03
+Acceptance,Acceptance,TC_DATA_SET_356,Regression1,auto,"Unexpected TWAMP-Sender Operational status was found
+",Group08
 General_Management,SNMP,TC_DATA_SET_147,Regression3,auto,Unanalyzed - Two-Way Frame Delay min value = 0,Group07
-Interfaces,Port,TC_DATA_SET_480,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group09
+Interfaces,Port,TC_DATA_SET_480,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group03
 Interfaces,NFV,TC_DATA_SET_89,Regression2,auto,Unanalyzed - Unable to set ip on vlan 5,Group05
 Acceptance,Acceptance,TC_DATA_SET_256,Regression2,auto,"        Unanalyzed - MEP status is No
 ",Group04
-Acceptance,Acceptance,TC_DATA_SET_240,Regression2,auto,"        Failedbecause of afirst level exception - Needinvestigation 
+Acceptance,Acceptance,TC_DATA_SET_240,Regression2,auto,"        Failed because of a first level exception - Need investigation 
 ",Group02
 Interfaces,Port,TC_DATA_SET_434,Regression2,auto,Unanalyzed - MEP status is not linked,Group04
 General_Management,Alarm,TC_DATA_SET_467,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
 Interfaces,NFV,TC_DATA_SET_88,Regression2,auto,Unanalyzed - Unable to set ip on vlan 5,Group05
-General_Management,Alarm,TC_DATA_SET_165,Regression3,auto,Expected tel but information now is ssh,Group03
-Interfaces,NFV,TC_DATA_SET_438,Regression2,auto,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Group10
+General_Management,Alarm,TC_DATA_SET_165,Regression3,auto,TWAMP-Sender Operational have status not as expected,Group08
+Interfaces,NFV,TC_DATA_SET_438,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,Alarm,TC_DATA_SET_275,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
-Interfaces,Port,TC_DATA_SET_483,Regression2,auto,Unanalyzed - Expected a minimum of 3 records,Group10
+Interfaces,Port,TC_DATA_SET_483,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,SNMP,TC_DATA_SET_337,Regression2,auto,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",Group08
-General_Management,Alarm,TC_DATA_SET_42,Regression1,auto,Actual: ssh - Expected tel. Information not as expected.,Group03
-Interfaces,Port,TC_DATA_SET_482,Regression2,auto,Unanalyzed - Expected a minimum of 3 records,Group10
+General_Management,Alarm,TC_DATA_SET_42,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
+Interfaces,Port,TC_DATA_SET_482,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,SNMP,TC_DATA_SET_103,Regression3,auto,Unanalyzed - Two-Way Frame Delay min value = 0,Group07
 General_Management,SNMP,TC_DATA_SET_146,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value = 0,Group07
-Interfaces,NFV,TC_DATA_SET_439,Regression1,auto,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Group10
+Interfaces,NFV,TC_DATA_SET_439,Regression1,auto,The samples in CSV file is incorrect. Actual 298,Group06
 Interfaces,LLDP,TC_DATA_SET_414,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,SNMP,TC_DATA_SET_96,Regression2,auto,Unanalyzed - MEP status is not Yes,Group04
-Interfaces,Port,TC_DATA_SET_191,Regression2,auto,Unanalyzed - Expected a minimum of 3 records,Group10
+Interfaces,Port,TC_DATA_SET_191,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,Alarm,TC_DATA_SET_231,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
-Interfaces,Port,TC_DATA_SET_195,Regression3,auto,Unanalyzed - Invalid interface configuration reporting passed,Group09
+Interfaces,Port,TC_DATA_SET_195,Regression3,auto,Unanalyzed - Invalid interface configuration reporting passed,Group03
 Acceptance,Acceptance,TC_DATA_SET_244,Regression2,auto,"        The failure was due to an initial exception - Need investigation 
 ",Group02
 Interfaces,Port,TC_DATA_SET_66,Regression1,auto,Unanalyzed - Cannot set ip on vlan 2,Group05
 General_Management,SNMP,TC_DATA_SET_21,Regression1,auto,"        Unanalyzed - MEP status is No
 ",Group04
-Acceptance,Acceptance,TC_DATA_SET_367,Regression3,auto,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Group04
-Acceptance,Acceptance,TC_DATA_SET_359,Regression1,auto,"        Failedbecause of afirst level exception - Needinvestigation 
+Acceptance,Acceptance,TC_DATA_SET_367,Regression3,auto,"        Unanalyzed - MEP status is No",Group04
+Acceptance,Acceptance,TC_DATA_SET_359,Regression1,auto,"        Failed because of a first level exception - Need investigation 
 ",Group02
 Interfaces,LLDP,TC_DATA_SET_295,Regression2,auto,The expected samples in CSV is 300. Actual 299,Group06
-General_Management,SNMP,TC_DATA_SET_216,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,SNMP,TC_DATA_SET_216,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 Acceptance,Acceptance,TC_DATA_SET_132,Regression1,auto,Unanalyzed - Could not set ip on vlan,Group05
 General_Management,SNMP,TC_DATA_SET_118,Regression1,auto,Unanalyzed - MEP status is not Yes,Group04
 General_Management,Alarm,TC_DATA_SET_394,Regression2,auto,Need investigation - Failed because of a first level exception,Group02
-General_Management,Alarm,TC_DATA_SET_285,Regression1,auto,Information should be tel instead of ssh,Group03
+General_Management,Alarm,TC_DATA_SET_285,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
 General_Management,Alarm,TC_DATA_SET_463,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
-General_Management,Alarm,TC_DATA_SET_403,Regression1,auto,Information should be tel instead of ssh,Group03
-Acceptance,Acceptance,TC_DATA_SET_12,Regression2,auto,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Group04
-Interfaces,Port,TC_DATA_SET_313,Regression3,auto,Unanalyzed - Invalid interface configuration reporting passed,Group09
+General_Management,Alarm,TC_DATA_SET_403,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
+Acceptance,Acceptance,TC_DATA_SET_12,Regression2,auto,"        Unanalyzed - MEP status is No",Group04
+Interfaces,Port,TC_DATA_SET_313,Regression3,auto,Unanalyzed - Invalid interface configuration reporting passed,Group03
 General_Management,SNMP,TC_DATA_SET_342,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
-General_Management,Alarm,TC_DATA_SET_399,Regression3,auto,Configuration of invalid interface reporting not failed,Group09
+General_Management,Alarm,TC_DATA_SET_399,Regression3,auto,Configuration of invalid interface reporting not failed,Group03
 General_Management,SNMP,TC_DATA_SET_234,Regression1,auto,"        Unanalyzed - MEP status is No
 ",Group04
-Acceptance,Acceptance,TC_DATA_SET_02,Regression1,auto,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Group03
+Acceptance,Acceptance,TC_DATA_SET_02,Regression1,auto,"Unexpected TWAMP-Sender Operational status was found
+",Group08
 Interfaces,Port,TC_DATA_SET_429,Regression2,auto,Unanalyzed - Failed to set ip on vlan,Group05
 Interfaces,LLDP,TC_DATA_SET_496,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
-General_Management,Alarm,TC_DATA_SET_278,Regression1,auto,Actual: ssh - Expected tel. Information not as expected.,Group03
+General_Management,Alarm,TC_DATA_SET_278,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
 General_Management,Alarm,TC_DATA_SET_113,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
 Interfaces,LLDP,TC_DATA_SET_180,Regression1,auto,The samples in CSV file is not correct,Group06
 General_Management,Alarm,TC_DATA_SET_465,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is zero,Group07
 Interfaces,Port,TC_DATA_SET_67,Regression2,auto,Unanalyzed - Cannot set ip on vlan 2,Group05
 Acceptance,Acceptance,TC_DATA_SET_20,Regression2,auto,"        Unanalyzed - MEP status is No
 ",Group04
-General_Management,Alarm,TC_DATA_SET_162,Regression2,auto,Configuration of invalid interface reporting not failed,Group09
+General_Management,Alarm,TC_DATA_SET_162,Regression2,auto,Configuration of invalid interface reporting not failed,Group03
 General_Management,Alarm,TC_DATA_SET_392,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
-Acceptance,Acceptance,TC_DATA_SET_248,Regression2,auto,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Group04
-Interfaces,Port,TC_DATA_SET_71,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group09
-Interfaces,Port,TC_DATA_SET_306,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group09
+Acceptance,Acceptance,TC_DATA_SET_248,Regression2,auto,"        Unanalyzed - MEP status is No",Group04
+Interfaces,Port,TC_DATA_SET_71,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group03
+Interfaces,Port,TC_DATA_SET_306,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group03
 General_Management,Alarm,TC_DATA_SET_389,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
 Interfaces,Port,TC_DATA_SET_497,Regression1,auto,Unanalyzed - Cannot set ip on vlan 2,Group05
 Acceptance,Acceptance,TC_DATA_SET_18,Regression1,auto,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",Group06
-Acceptance,Acceptance,TC_DATA_SET_135,Regression1,auto,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Group03
+Acceptance,Acceptance,TC_DATA_SET_135,Regression1,auto,"Unexpected TWAMP-Sender Operational status was found
+",Group08
 General_Management,SNMP,TC_DATA_SET_214,Regression2,auto,Unanalyzed - MEP status is not Yes,Group04
 General_Management,SNMP,TC_DATA_SET_30,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 Acceptance,Acceptance,TC_DATA_SET_07,Regression1,auto,"        Need investigationFailed because of a first level exception 
 ",Group02
 Acceptance,Acceptance,TC_DATA_SET_19,Regression2,auto,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",Group06
-Interfaces,Port,TC_DATA_SET_318,Regression1,auto,Unanalyzed - Number of records not as expected,Group10
-Acceptance,Acceptance,TC_DATA_SET_13,Regression3,auto,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Group04
+Interfaces,Port,TC_DATA_SET_318,Regression1,auto,The samples in CSV file is incorrect. Actual 298,Group06
+Acceptance,Acceptance,TC_DATA_SET_13,Regression3,auto,"        Unanalyzed - MEP status is No",Group04
 Interfaces,LLDP,TC_DATA_SET_299,Regression3,auto,The samples in CSV file is not correct,Group06
 General_Management,Alarm,TC_DATA_SET_159,Regression2,auto,Need investigation - Failed because of a first level exception,Group02
-General_Management,Alarm,TC_DATA_SET_44,Regression2,auto,Configuration of invalid interface reporting not failed,Group09
+General_Management,Alarm,TC_DATA_SET_44,Regression2,auto,Configuration of invalid interface reporting not failed,Group03
 General_Management,SNMP,TC_DATA_SET_221,Regression3,auto,Unanalyzed - Two-Way Frame Delay min value = 0,Group07
-General_Management,Alarm,TC_DATA_SET_46,Regression1,auto,Expected tel but information now is ssh,Group03
+General_Management,Alarm,TC_DATA_SET_46,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
 General_Management,SNMP,TC_DATA_SET_222,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 Acceptance,Acceptance,TC_DATA_SET_361,Regression1,auto,"        Need investigationFailed because of a first level exception 
 ",Group02
 Acceptance,Acceptance,TC_DATA_SET_01,Regression1,auto,"	Failed because of a first level exception - Need investigation 
 ",Group02
-General_Management,Alarm,TC_DATA_SET_396,Regression1,auto,Actual: ssh - Expected tel. Information not as expected.,Group03
+General_Management,Alarm,TC_DATA_SET_396,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
 General_Management,SNMP,TC_DATA_SET_458,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
-General_Management,Alarm,TC_DATA_SET_160,Regression1,auto,Actual: ssh - Expected tel. Information not as expected.,Group03
+General_Management,Alarm,TC_DATA_SET_160,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
 General_Management,Alarm,TC_DATA_SET_171,Regression1,auto,Offload flag enabled: Issue-123,Group01
-General_Management,Alarm,TC_DATA_SET_163,Regression3,auto,Configuration of invalid interface reporting not failed,Group09
+General_Management,Alarm,TC_DATA_SET_163,Regression3,auto,Configuration of invalid interface reporting not failed,Group03
 General_Management,SNMP,TC_DATA_SET_461,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 Interfaces,Port,TC_DATA_SET_433,Regression3,auto,Unanalyzed - MEP status is not as expected,Group04
 General_Management,SNMP,TC_DATA_SET_220,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value = 0,Group07
 General_Management,SNMP,TC_DATA_SET_226,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
-Acceptance,Acceptance,TC_DATA_SET_05,Regression1,auto,"        Failedbecause of afirst level exception - Needinvestigation 
+Acceptance,Acceptance,TC_DATA_SET_05,Regression1,auto,"        Failed because of a first level exception - Need investigation 
 ",Group02
 General_Management,Alarm,TC_DATA_SET_38,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
 Interfaces,LLDP,TC_DATA_SET_177,Regression2,auto,The expected samples in CSV is 300. Actual 299,Group06
 Acceptance,Acceptance,TC_DATA_SET_124,Regression2,auto,"        Need investigationFailed because of a first level exception 
 ",Group02
 General_Management,SNMP,TC_DATA_SET_377,Regression1,auto,Unanalyzed - MEP status is not Yes,Group04
-Interfaces,Port,TC_DATA_SET_430,Regression2,auto,Unanalyzed - Invalid interface configuration reporting passed,Group09
+Interfaces,Port,TC_DATA_SET_430,Regression2,auto,Unanalyzed - Invalid interface configuration reporting passed,Group03
 General_Management,Alarm,TC_DATA_SET_273,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is zero,Group07
-Interfaces,NFV,TC_DATA_SET_84,Regression2,auto,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Group10
+Interfaces,NFV,TC_DATA_SET_84,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,SNMP,TC_DATA_SET_140,Regression2,auto,Unanalyzed - MEP status is not Yes,Group04
 General_Management,Alarm,TC_DATA_SET_155,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is zero,Group07
 General_Management,SNMP,TC_DATA_SET_470,Regression1,auto,"        Unanalyzed - MEP status is No
@@ -408,57 +408,57 @@ General_Management,SNMP,TC_DATA_SET_470,Regression1,auto,"        Unanalyzed - M
 Interfaces,NFV,TC_DATA_SET_209,Regression2,auto,"Unexpected TWAMP-Sender Operational status was found
 ",Group08
 General_Management,SNMP,TC_DATA_SET_459,Regression3,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
-General_Management,SNMP,TC_DATA_SET_503,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,SNMP,TC_DATA_SET_503,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 Interfaces,NFV,TC_DATA_SET_94,Regression1,auto,WARNING: offload flag enabled: Issue-123,Group01
 Interfaces,NFV,TC_DATA_SET_440,Regression2,auto,Unanalyzed - Set ip on vlan is not successful,Group05
 Interfaces,Port,TC_DATA_SET_79,Regression3,auto,Unanalyzed - MEP status is not as expected,Group04
-General_Management,SNMP,TC_DATA_SET_25,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,SNMP,TC_DATA_SET_25,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
-General_Management,Alarm,TC_DATA_SET_283,Regression3,auto,Expected tel but information now is ssh,Group03
-Interfaces,Port,TC_DATA_SET_500,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group09
+General_Management,Alarm,TC_DATA_SET_283,Regression3,auto,TWAMP-Sender Operational have status not as expected,Group08
+Interfaces,Port,TC_DATA_SET_500,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group03
 General_Management,Alarm,TC_DATA_SET_109,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
-Interfaces,Port,TC_DATA_SET_200,Regression1,auto,Unanalyzed - Number of records not as expected,Group10
-Interfaces,Port,TC_DATA_SET_70,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group09
+Interfaces,Port,TC_DATA_SET_200,Regression1,auto,The samples in CSV file is incorrect. Actual 298,Group06
+Interfaces,Port,TC_DATA_SET_70,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group03
 Interfaces,NFV,TC_DATA_SET_330,Regression1,auto,WARNING: offload flag enabled: Issue-123,Group01
 General_Management,Alarm,TC_DATA_SET_272,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is zero,Group07
-Interfaces,Port,TC_DATA_SET_424,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group09
-General_Management,Alarm,TC_DATA_SET_400,Regression1,auto,Expected tel but information now is ssh,Group03
+Interfaces,Port,TC_DATA_SET_424,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group03
+General_Management,Alarm,TC_DATA_SET_400,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
 Acceptance,Acceptance,TC_DATA_SET_355,Regression1,auto,"	Failed because of a first level exception - Need investigation 
 ",Group02
 General_Management,Alarm,TC_DATA_SET_289,Regression1,auto,Offload flag enabled: Issue-123,Group01
 Acceptance,Acceptance,TC_DATA_SET_254,Regression1,auto,"        Unanalyzed - Error: The samples in CSV file is not correct. Expected: 300, Actual: 298 ",Group06
-Interfaces,NFV,TC_DATA_SET_320,Regression2,auto,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Group10
+Interfaces,NFV,TC_DATA_SET_320,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,SNMP,TC_DATA_SET_235,Regression2,auto,Unanalyzed - MEP status is not Yes,Group04
-Acceptance,Acceptance,TC_DATA_SET_249,Regression3,auto,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Group04
+Acceptance,Acceptance,TC_DATA_SET_249,Regression3,auto,"        Unanalyzed - MEP status is No",Group04
 Interfaces,Port,TC_DATA_SET_421,Regression2,auto,Unanalyzed - Cannot set ip on vlan 2,Group05
 General_Management,SNMP,TC_DATA_SET_101,Regression2,auto,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",Group08
 General_Management,SNMP,TC_DATA_SET_236,Regression1,auto,Unanalyzed - MEP status is not Yes,Group04
 Interfaces,Port,TC_DATA_SET_476,Regression1,auto,Unanalyzed - Cannot set ip on vlan 2,Group05
-Interfaces,Port,TC_DATA_SET_481,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group09
+Interfaces,Port,TC_DATA_SET_481,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group03
 Interfaces,Port,TC_DATA_SET_302,Regression1,auto,Unanalyzed - Cannot set ip on vlan 2,Group05
-General_Management,SNMP,TC_DATA_SET_142,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,SNMP,TC_DATA_SET_142,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
-General_Management,SNMP,TC_DATA_SET_379,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,SNMP,TC_DATA_SET_379,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 General_Management,SNMP,TC_DATA_SET_150,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
-Interfaces,Port,TC_DATA_SET_436,Regression1,auto,Unanalyzed - Number of records not as expected,Group10
+Interfaces,Port,TC_DATA_SET_436,Regression1,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,SNMP,TC_DATA_SET_451,Regression1,auto,Unanalyzed - MEP status is not Yes,Group04
-Interfaces,NFV,TC_DATA_SET_201,Regression2,auto,Unanalyzed - Number of records not as expected,Group10
-Interfaces,Port,TC_DATA_SET_305,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group09
-Interfaces,LLDP,TC_DATA_SET_411,Regression2,auto,The actual samples in CSV is 289,Group06
+Interfaces,NFV,TC_DATA_SET_201,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
+Interfaces,Port,TC_DATA_SET_305,Regression1,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group03
+Interfaces,LLDP,TC_DATA_SET_411,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 Acceptance,Acceptance,TC_DATA_SET_129,Regression2,auto,"        The failure was due to an initial exception - Need investigation 
 ",Group02
 Interfaces,LLDP,TC_DATA_SET_412,Regression1,auto,The expected samples in CSV is 300. Actual 299,Group06
-Interfaces,Port,TC_DATA_SET_68,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group09
+Interfaces,Port,TC_DATA_SET_68,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group03
 General_Management,SNMP,TC_DATA_SET_116,Regression1,auto,"        Unanalyzed - MEP status is No
 ",Group04
 General_Management,Alarm,TC_DATA_SET_227,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
-Acceptance,Acceptance,TC_DATA_SET_131,Regression3,auto,"        Unanalyzed - Actual MEP status is No, Expected is Yes",Group04
+Acceptance,Acceptance,TC_DATA_SET_131,Regression3,auto,"        Unanalyzed - MEP status is No",Group04
 Acceptance,Acceptance,TC_DATA_SET_125,Regression1,auto,"        Need investigationFailed because of a first level exception 
 ",Group02
-Interfaces,Port,TC_DATA_SET_309,Regression2,auto,Unanalyzed - Expected a minimum of 3 records,Group10
+Interfaces,Port,TC_DATA_SET_309,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,Alarm,TC_DATA_SET_464,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is zero,Group07
 General_Management,SNMP,TC_DATA_SET_333,Regression1,auto,Unanalyzed - MEP status is not Yes,Group04
 Acceptance,Acceptance,TC_DATA_SET_364,Regression1,auto,"        The failure was due to an initial exception - Need investigation 
@@ -467,7 +467,7 @@ Interfaces,Port,TC_DATA_SET_193,Regression2,auto,Unanalyzed - Failed to set ip o
 Acceptance,Acceptance,TC_DATA_SET_246,Regression1,auto,"        The failure was due to an initial exception - Need investigation 
 ",Group02
 General_Management,SNMP,TC_DATA_SET_104,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
-General_Management,SNMP,TC_DATA_SET_335,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,SNMP,TC_DATA_SET_335,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 General_Management,SNMP,TC_DATA_SET_144,Regression1,auto,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",Group08
@@ -482,13 +482,13 @@ Interfaces,Port,TC_DATA_SET_192,Regression1,auto,Unanalyzed - Failed to set ip o
 Interfaces,Port,TC_DATA_SET_80,Regression2,auto,Unanalyzed - MEP status is not linked,Group04
 Interfaces,LLDP,TC_DATA_SET_183,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
 Interfaces,Port,TC_DATA_SET_484,Regression1,auto,Unanalyzed - Failed to set ip on vlan,Group05
-General_Management,Alarm,TC_DATA_SET_410,Regression2,auto,The actual samples in CSV is 289,Group06
-Interfaces,Port,TC_DATA_SET_188,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group09
-Interfaces,Port,TC_DATA_SET_76,Regression2,auto,Unanalyzed - Invalid interface configuration reporting passed,Group09
+General_Management,Alarm,TC_DATA_SET_410,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
+Interfaces,Port,TC_DATA_SET_188,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group03
+Interfaces,Port,TC_DATA_SET_76,Regression2,auto,Unanalyzed - Invalid interface configuration reporting passed,Group03
 General_Management,Alarm,TC_DATA_SET_350,Regression2,auto,Need investigation - Failed because of a first level exception,Group02
 General_Management,SNMP,TC_DATA_SET_387,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 Acceptance,Acceptance,TC_DATA_SET_369,Regression3,auto,Unanalyzed - Could not set ip on vlan,Group05
-Interfaces,Port,TC_DATA_SET_501,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group09
+Interfaces,Port,TC_DATA_SET_501,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting passed,Group03
 General_Management,Alarm,TC_DATA_SET_229,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is zero,Group07
 General_Management,SNMP,TC_DATA_SET_338,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value = 0,Group07
 Acceptance,Acceptance,TC_DATA_SET_11,Regression2,auto,"        The failure was due to an initial exception - Need investigation 
@@ -506,28 +506,28 @@ Interfaces,NFV,TC_DATA_SET_325,Regression2,auto,Unanalyzed - Unable to set ip on
 Interfaces,Port,TC_DATA_SET_491,Regression1,auto,Unanalyzed - MEP status is not linked,Group04
 Acceptance,Acceptance,TC_DATA_SET_250,Regression1,auto,Unanalyzed - Could not set ip on vlan,Group05
 Interfaces,NFV,TC_DATA_SET_86,Regression2,auto,Unanalyzed - Set ip on vlan is not successful,Group05
-General_Management,Alarm,TC_DATA_SET_45,Regression3,auto,Configuration of invalid interface reporting not failed,Group09
+General_Management,Alarm,TC_DATA_SET_45,Regression3,auto,Configuration of invalid interface reporting not failed,Group03
 General_Management,Alarm,TC_DATA_SET_35,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
 Interfaces,LLDP,TC_DATA_SET_495,Regression2,auto,TWAMP-Sender Operational have status not as expected,Group08
-Interfaces,LLDP,TC_DATA_SET_175,Regression2,auto,The actual samples in CSV is 289,Group06
+Interfaces,LLDP,TC_DATA_SET_175,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,SNMP,TC_DATA_SET_224,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 General_Management,Alarm,TC_DATA_SET_52,Regression2,auto,Offload flag enabled: Issue-123,Group01
 General_Management,Alarm,TC_DATA_SET_395,Regression2,auto,Need investigation - Failed because of a first level exception,Group02
 General_Management,SNMP,TC_DATA_SET_386,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
-Interfaces,LLDP,TC_DATA_SET_57,Regression2,auto,The actual samples in CSV is 289,Group06
+Interfaces,LLDP,TC_DATA_SET_57,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 Interfaces,LLDP,TC_DATA_SET_301,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
 General_Management,SNMP,TC_DATA_SET_269,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 General_Management,Alarm,TC_DATA_SET_290,Regression2,auto,Offload flag is enabled,Group01
 General_Management,SNMP,TC_DATA_SET_108,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still zero,Group07
-General_Management,Alarm,TC_DATA_SET_49,Regression1,auto,Information should be tel instead of ssh,Group03
+General_Management,Alarm,TC_DATA_SET_49,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
 Interfaces,LLDP,TC_DATA_SET_182,Regression2,auto,TWAMP-Sender Operational have status not as expected,Group08
 Acceptance,Acceptance,TC_DATA_SET_363,Regression2,auto,"        The failure was due to an initial exception - Need investigation 
 ",Group02
 General_Management,Alarm,TC_DATA_SET_408,Regression2,auto,Offload flag is enabled,Group01
-General_Management,Alarm,TC_DATA_SET_402,Regression2,auto,Information should be tel instead of ssh,Group03
-General_Management,SNMP,TC_DATA_SET_98,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+General_Management,Alarm,TC_DATA_SET_402,Regression2,auto,TWAMP-Sender Operational have status not as expected,Group08
+General_Management,SNMP,TC_DATA_SET_98,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
-Interfaces,NFV,TC_DATA_SET_493,Regression2,auto,Unanalyzed - Number of records not as expected,Group10
+Interfaces,NFV,TC_DATA_SET_493,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 Interfaces,NFV,TC_DATA_SET_326,Regression1,auto,"Unexpected TWAMP-Sender Operational status was found
 ",Group08
 Interfaces,NFV,TC_DATA_SET_204,Regression2,auto,Unanalyzed - Set ip on vlan is not successful,Group05
@@ -544,10 +544,10 @@ General_Management,Alarm,TC_DATA_SET_347,Regression1,auto,Unanalyzed - Two-Way F
 Acceptance,Acceptance,TC_DATA_SET_119,Regression1,auto,"	Failed because of a first level exception - Need investigation 
 ",Group02
 General_Management,Alarm,TC_DATA_SET_274,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
-General_Management,Alarm,TC_DATA_SET_282,Regression1,auto,Expected tel but information now is ssh,Group03
+General_Management,Alarm,TC_DATA_SET_282,Regression1,auto,TWAMP-Sender Operational have status not as expected,Group08
 Acceptance,Acceptance,TC_DATA_SET_03,Regression2,auto,"        Failed because of a first level exception - Need investigation 
 ",Group02
-General_Management,Alarm,TC_DATA_SET_281,Regression3,auto,Configuration of invalid interface reporting not failed,Group09
+General_Management,Alarm,TC_DATA_SET_281,Regression3,auto,Configuration of invalid interface reporting not failed,Group03
 Interfaces,NFV,TC_DATA_SET_323,Regression1,auto,Unanalyzed - Set ip on vlan is not successful,Group05
 Interfaces,Port,TC_DATA_SET_81,Regression1,auto,Unanalyzed - MEP status is not linked,Group04
 General_Management,Alarm,TC_DATA_SET_50,Regression1,auto,Issue-123: Offload flag enabled,Group01
@@ -567,20 +567,20 @@ General_Management,SNMP,TC_DATA_SET_380,Regression1,auto,"        Unanalyzed - T
 Interfaces,NFV,TC_DATA_SET_206,Regression2,auto,Unanalyzed - Unable to set ip on vlan 5,Group05
 General_Management,Alarm,TC_DATA_SET_393,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value should be grather than 0,Group07
 General_Management,SNMP,TC_DATA_SET_117,Regression2,auto,Unanalyzed - MEP status is not Yes,Group04
-Interfaces,Port,TC_DATA_SET_72,Regression2,auto,Unanalyzed - Expected a minimum of 3 records,Group10
+Interfaces,Port,TC_DATA_SET_72,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,SNMP,TC_DATA_SET_384,Regression1,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 General_Management,Alarm,TC_DATA_SET_54,Regression2,auto,Offload flag is enabled,Group01
 General_Management,SNMP,TC_DATA_SET_336,Regression1,auto,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",Group08
 Interfaces,Port,TC_DATA_SET_316,Regression2,auto,Unanalyzed - MEP status is not linked,Group04
 General_Management,Alarm,TC_DATA_SET_288,Regression2,auto,Offload flag enabled: Issue-123,Group01
-Acceptance,Acceptance,TC_DATA_SET_253,Regression1,auto,"        Unanalyzed - Error some information not as expected. Actual: ssh - Expected tel 
-",Group03
+Acceptance,Acceptance,TC_DATA_SET_253,Regression1,auto,"Unexpected TWAMP-Sender Operational status was found
+",Group08
 General_Management,Alarm,TC_DATA_SET_409,Regression1,auto,Offload flag is enabled,Group01
 Interfaces,NFV,TC_DATA_SET_442,Regression2,auto,Unanalyzed - Unable to set ip on vlan 5,Group05
 Interfaces,NFV,TC_DATA_SET_205,Regression1,auto,Unanalyzed - Set ip on vlan is not successful,Group05
 Interfaces,NFV,TC_DATA_SET_322,Regression2,auto,Unanalyzed - Set ip on vlan is not successful,Group05
-Interfaces,Port,TC_DATA_SET_431,Regression3,auto,Unanalyzed - Invalid interface configuration reporting passed,Group09
+Interfaces,Port,TC_DATA_SET_431,Regression3,auto,Unanalyzed - Invalid interface configuration reporting passed,Group03
 Acceptance,Acceptance,TC_DATA_SET_14,Regression1,auto,Unanalyzed - Could not set ip on vlan,Group05
 Interfaces,LLDP,TC_DATA_SET_473,Regression3,auto,The samples in CSV file is not correct,Group06
 General_Management,Alarm,TC_DATA_SET_40,Regression2,auto,Need investigation - Failed because of a first level exception,Group02
@@ -589,26 +589,26 @@ Acceptance,Acceptance,TC_DATA_SET_121,Regression2,auto,"        Failed because o
 ",Group02
 Acceptance,Acceptance,TC_DATA_SET_239,Regression2,auto,"        Failed because of a first level exception - Need investigation 
 ",Group02
-Interfaces,Port,TC_DATA_SET_186,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group09
-Interfaces,NFV,TC_DATA_SET_202,Regression2,auto,"Unanalyzed - Number of records not as expected. Actual: 2, Expect: 3",Group10
-General_Management,SNMP,TC_DATA_SET_261,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+Interfaces,Port,TC_DATA_SET_186,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group03
+Interfaces,NFV,TC_DATA_SET_202,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
+General_Management,SNMP,TC_DATA_SET_261,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 Interfaces,NFV,TC_DATA_SET_448,Regression1,auto,WARNING: offload flag enabled: Issue-123,Group01
 General_Management,SNMP,TC_DATA_SET_100,Regression1,auto,"        Unanalyzed - TWAMP-Sender Operational status is not as expected 
 ",Group08
 General_Management,SNMP,TC_DATA_SET_471,Regression2,auto,Unanalyzed - MEP status is not Yes,Group04
 General_Management,SNMP,TC_DATA_SET_267,Regression3,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
-Acceptance,Acceptance,TC_DATA_SET_04,Regression2,auto,"        Failedbecause of afirst level exception - Needinvestigation 
+Acceptance,Acceptance,TC_DATA_SET_04,Regression2,auto,"        Failed because of a first level exception - Need investigation 
 ",Group02
-Interfaces,Port,TC_DATA_SET_422,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group09
-General_Management,Alarm,TC_DATA_SET_292,Regression2,auto,The actual samples in CSV is 289,Group06
-General_Management,SNMP,TC_DATA_SET_260,Regression2,auto,"        Unanalyzed - TWAMP Operational status is not as expected 
+Interfaces,Port,TC_DATA_SET_422,Regression2,auto,Unanalyzed - Configuration of invalid interface reporting not failed,Group03
+General_Management,Alarm,TC_DATA_SET_292,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
+General_Management,SNMP,TC_DATA_SET_260,Regression2,auto,"        Unexpected TWAMP-Sender Operational status was found 
 ",Group08
 Interfaces,LLDP,TC_DATA_SET_179,Regression3,auto,The samples in CSV file is incorrect. Actual 298,Group06
 Acceptance,Acceptance,TC_DATA_SET_357,Regression2,auto,"        Failed because of a first level exception - Need investigation 
 ",Group02
 General_Management,SNMP,TC_DATA_SET_265,Regression3,auto,Unanalyzed - Two-Way Frame Delay min value = 0,Group07
 General_Management,Alarm,TC_DATA_SET_172,Regression2,auto,Offload flag is enabled,Group01
-Interfaces,Port,TC_DATA_SET_190,Regression2,auto,Unanalyzed - Expected a minimum of 3 records,Group10
+Interfaces,Port,TC_DATA_SET_190,Regression2,auto,The samples in CSV file is incorrect. Actual 298,Group06
 General_Management,SNMP,TC_DATA_SET_460,Regression2,auto,Unanalyzed - Two-Way Frame Delay min value is still 0,Group07
 General_Management,Alarm,TC_DATA_SET_351,Regression2,auto,Need investigation - Failed because of a first level exception,Group02
